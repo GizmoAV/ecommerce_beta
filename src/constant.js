@@ -1,0 +1,10 @@
+export const LOGO_GIZMOAV = "https://raw.githubusercontent.com/GizmoAV/images/main/logos/gizmo_logo.jpg";
+export const CRSL_IMG1 = "https://raw.githubusercontent.com/GizmoAV/images/main/carousel/b1.png";
+export const CRSL_IMG2 = "https://raw.githubusercontent.com/GizmoAV/images/main/carousel/b2.png";
+export const CRSL_IMG3 = "https://raw.githubusercontent.com/GizmoAV/images/main/carousel/b3.png";
+export const CRSL_IMG4 = "https://raw.githubusercontent.com/GizmoAV/images/main/carousel/b4.png";
+export const CRSL_IMG5 = "https://raw.githubusercontent.com/GizmoAV/images/main/carousel/b5.png";
+export const SOCIAL_IMGF = "https://raw.githubusercontent.com/GizmoAV/images/main/logos/icons8-facebook-144.png";
+export const SOCIAL_IMGL = "https://raw.githubusercontent.com/GizmoAV/images/main/logos/icons8-linkedin-144.png";
+export const SOCIAL_IMGI = "https://raw.githubusercontent.com/GizmoAV/images/main/logos/icons8-instagram-144.png";
+// export const CONTACT_IMG = "https://raw.githubusercontent.com/GizmoAV/images/main/contactus/contactBg.jpg";

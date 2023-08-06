@@ -1,0 +1,12 @@
+body{display: flex;}
+.constFlexRow    { display: flex; flex: none; width: 100%; }
+.constFlexCol    { display: flex; flex: none; flex-direction: column; width: 100%; }
+.alignItemCntr    { align-items: center; }
+.justifyContentCtr  { justify-content: center; }
+.justifyContentEnd   { justify-content: flex-end; }
+.flexInline { display: inline-flex; flex: none; }
+.headerwidth0  { display: flex; flex: 1; min-width: 0; }
+.flexAutoRow      { display: flex; flex: none; min-width: 24px; }
+.paddingRange16   { padding: 1.0rem }
+.paddingRange24   { padding: 1.5rem; }
+

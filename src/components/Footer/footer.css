@@ -1,0 +1,49 @@
+.copyright{
+    background-color: #333333;
+    background-position: 0px 0px;
+    color: #707070;
+    height: auto;
+    border-bottom: 2px solid #4f4f4f;
+    position: relative;
+    align-items: center;
+    text-align: center;
+    left: 0;
+    bottom: 0;
+
+}
+
+
+.footer-section-area {
+	background: #333;
+	color: #fff;
+	display: flex;
+	padding: 10px 8%;
+	justify-content: space-between;
+    flex-wrap: wrap;
+}
+.footer-clm-hdr{
+	color: #0F9BB2;
+    font-size: 24px;
+    padding: 15px 0;
+}
+.footer-ele {
+	width: 220px;
+	padding: 20px;
+}
+.footer-clm-ele{
+    font-size: 14px;
+	color: #e1e1e1;
+    cursor: pointer;
+}
+.popular-post{
+    display: flex;
+    width: auto;
+}
+.icon{
+    display: block;
+    width: 40px;
+    height: 40px;
+    margin: 0 5px;
+    padding-left: 4px;
+    background-size: cover;
+}

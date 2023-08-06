@@ -1,0 +1,40 @@
+.main_container{
+    /* align-items: center; */
+    width: 85%;
+    margin: auto;
+}
+
+.text_head_one{
+    font-weight: bold;
+    line-height: 32px;
+    font-size: xx-large;
+    width: 65%;
+}
+.text_head_two{
+    font-weight: 300;
+    line-height: 32px;
+    font-size: x-large;
+    width: 65%;
+}
+
+.show_more{
+    color: #00f;
+    cursor: pointer;
+}
+.para_hdr{
+    text-align: center;
+    font-size: 30px;
+	color: #000000;
+	font-weight: 600;
+	margin: auto;
+}
+.para_bdy{
+    font-family: 'Open Sans', sans-serif;
+	font-size: 15px;
+	line-height: 24px;
+	font-weight: 400;
+	vertical-align: baseline;
+	background: #ffffff;
+	color: #100f0f;
+
+}
